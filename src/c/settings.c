@@ -86,6 +86,14 @@ void Settings_loadFromStorage() {
     }
   }
 
+#ifdef PBL_ROUND
+  // PTR uses only widgets[0] (top) and widgets[2] (bottom);
+  // widgets[1] is the unused middle slot. Force it to EMPTY
+  // so it can't enable weather/seconds/battery/beats/altTZ
+  // via the Settings_updateDynamicSettings() loop.
+  settings.widgets[1] = EMPTY;
+#endif
+
   Settings_updateDynamicSettings();
 }
 
