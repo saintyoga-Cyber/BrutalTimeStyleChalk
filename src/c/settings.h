@@ -39,7 +39,7 @@ typedef struct {
   VibeIntervalType hourlyVibe;
 
   // sidebar settings
-  SidebarWidgetType widgets[3];
+  SidebarWidgetType widgets[3]; // On PBL_ROUND (chalk): only widgets[0] (top) and widgets[2] (bottom) are used. widgets[1] is ignored.
   bool sidebarOnLeft;
   bool useLargeFonts;
   bool activateDisconnectIcon;
