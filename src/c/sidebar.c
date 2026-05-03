@@ -194,9 +194,9 @@ void updateRoundSidebar(Layer *l, GContext* ctx) {
 
   // Nudge widgets slightly left so they stay legible inside
   // the curved fill.
-  SidebarWidgets_xOffset = 3;
+  SidebarWidgets_xOffset = 5;
 
-  int v_padding = 20;
+  int v_padding = 10;
   int topPos    = v_padding;
   int bottomPos = layerBounds.size.h
                   - v_padding
