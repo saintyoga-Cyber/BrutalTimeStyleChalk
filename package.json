@@ -17,6 +17,7 @@
     "enableMultiJS": true,
     "targetPlatforms": [
       "basalt",
+      "chalk",
       "emery"
     ],
     "capabilities": [
@@ -85,6 +86,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -94,6 +96,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -103,6 +106,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -112,6 +116,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -121,6 +126,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -130,6 +136,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -139,6 +146,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -148,6 +156,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -157,6 +166,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -166,6 +176,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -175,6 +186,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -184,6 +196,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -193,6 +206,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -202,6 +216,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -211,6 +226,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -220,6 +236,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -229,6 +246,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -238,6 +256,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -247,6 +266,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -256,6 +276,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -265,6 +286,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
@@ -274,6 +296,7 @@
           "type": "raw",
           "targetPlatforms": [
             "basalt",
+            "chalk",
             "emery"
           ]
         },
